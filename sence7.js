@@ -24,4 +24,4 @@ if (message.content.startsWith(prefix +"link")){
 });
 
 
-client.login("NTE2MzAxNzQ1NDAwNDQ3MDIz.DtxrIA.3nDx_j5L1yRSUJi6fjzGVi78VWo");
+client.login("NTE2MzY0OTc4MDQzNzQ4MzUy.DtymGQ.76sA0UEoslMHLDWE9Lx1Esn4xSc");
